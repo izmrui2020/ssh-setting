@@ -1,0 +1,6 @@
+
+
+Host git
+  AddKeysToAgent yes // I think I forgot this settings.
+  User git
+  hostname hogehoge.com
